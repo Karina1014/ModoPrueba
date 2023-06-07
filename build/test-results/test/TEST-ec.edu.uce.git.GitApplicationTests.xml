@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ec.edu.uce.git.GitApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-07T01:25:00" hostname="DESKTOP-PP2OOI0" time="1.916">
+<testsuite name="ec.edu.uce.git.GitApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-07T04:41:04" hostname="DESKTOP-PP2OOI0" time="1.863">
   <properties/>
-  <testcase name="contextLoads()" classname="ec.edu.uce.git.GitApplicationTests" time="1.916"/>
-  <system-out><![CDATA[20:24:58.009 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [ec.edu.uce.git.GitApplicationTests]: GitApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-20:24:58.251 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration ec.edu.uce.git.GitApplication for test class ec.edu.uce.git.GitApplicationTests
+  <testcase name="contextLoads()" classname="ec.edu.uce.git.GitApplicationTests" time="1.863"/>
+  <system-out><![CDATA[23:41:01.465 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [ec.edu.uce.git.GitApplicationTests]: GitApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+23:41:01.671 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration ec.edu.uce.git.GitApplication for test class ec.edu.uce.git.GitApplicationTests
 
   .   ____          _            __ _ _
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -13,9 +13,9 @@
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::                (v3.1.0)
 
-2023-06-06T20:24:59.367-05:00  INFO 13676 --- [    Test worker] ec.edu.uce.git.GitApplicationTests       : Starting GitApplicationTests using Java 17.0.6 with PID 13676 (started by Kari in C:\Users\David\IdeaProjects\git-practice)
-2023-06-06T20:24:59.372-05:00  INFO 13676 --- [    Test worker] ec.edu.uce.git.GitApplicationTests       : No active profile set, falling back to 1 default profile: "default"
-2023-06-06T20:25:00.549-05:00  INFO 13676 --- [    Test worker] ec.edu.uce.git.GitApplicationTests       : Started GitApplicationTests in 1.85 seconds (process running for 4.637)
+2023-06-06T23:41:02.755-05:00  INFO 10832 --- [    Test worker] ec.edu.uce.git.GitApplicationTests       : Starting GitApplicationTests using Java 17.0.6 with PID 10832 (started by Kari in C:\Users\David\IdeaProjects\git-practice)
+2023-06-06T23:41:02.759-05:00  INFO 10832 --- [    Test worker] ec.edu.uce.git.GitApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2023-06-06T23:41:04.043-05:00  INFO 10832 --- [    Test worker] ec.edu.uce.git.GitApplicationTests       : Started GitApplicationTests in 2.031 seconds (process running for 4.864)
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

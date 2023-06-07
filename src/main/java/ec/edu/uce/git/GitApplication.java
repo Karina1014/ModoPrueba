@@ -10,6 +10,8 @@ public class GitApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitApplication.class, args);
 		Test test = new Test();
-		test.saludo();
+		test.ModoPrueba();
+
+
 	}
 }
